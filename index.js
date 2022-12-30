@@ -175,22 +175,22 @@
 
 // array destructuring
 
-const myArray = ["val1","val2","val3"];
+// const myArray = ["val1","val2","val3"];
 
-let [myVar1,myVar2,myVar3] = myArray;
+// let [myVar1,myVar2,myVar3] = myArray;
 
 // console.log("value of myVar1:",myVar1);
 // console.log("value of myVar2:",myVar2);
 // console.log("value of myVar3:",myVar3);
 
-let [myVar4,myVar5,myVar6,myVar7] = myArray;
+// let [myVar4,myVar5,myVar6,myVar7] = myArray;
 
 // console.log("value of myVar4:",myVar4);
 // console.log("value of myVar5:",myVar5);
 // console.log("value of myVar6:",myVar6);
 // console.log("value of myVar7:",myVar7);
 
-let [myVar8, ,myVar9] = myArray;
+// let [myVar8, ,myVar9] = myArray;
 
 // console.log("value of myVar8:",myVar8);
 // console.log("value of myVar9:",myVar9);
@@ -241,12 +241,12 @@ let [myVar8, ,myVar9] = myArray;
 
 // difference between dot and bracket notation
 
-const person = {
-    name : "Kedar",
-    age : 20,
-    hobbies : ["playing","coding"],
-    "mob no" : 8855893211 
-}
+// const person = {
+//     name : "Kedar",
+//     age : 20,
+//     hobbies : ["playing","coding"],
+//     "mob no" : 8855893211 
+// }
 
 // console.log(person.mob no);       // wrong method to access "mob no" which has space in it 
 // hence bracket notation is used in such cases
@@ -339,11 +339,11 @@ const person = {
 
 // OBJECTS in array
 
-const users = [
-    {userId: 1,firstName: "Kedar", gender: "M"},
-    {userId: 2,firstName: "Ajay", gender: "M"},
-    {userId: 3,firstName: "Swati", gender: "F"}
-]
+// const users = [
+//     {userId: 1,firstName: "Kedar", gender: "M"},
+//     {userId: 2,firstName: "Ajay", gender: "M"},
+//     {userId: 3,firstName: "Swati", gender: "F"}
+// ]
 
 // for(let user of users){
 //     console.log(user);
