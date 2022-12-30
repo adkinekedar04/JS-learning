@@ -1,2 +1,2 @@
 # JS-learning
-Javascript tutorial with examples and useful comments
+Javascript tutorial from begining with examples and useful comments
