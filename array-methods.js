@@ -243,25 +243,3 @@ const myArray = ["item1","item2","item3","item4"];
 // const deletedItems = myArray.splice(0,2,"itemInserted1","itemInserted2","itemInserted3"); //['item1', 'itemInserted1', 'itemInserted2', 'itemInserted3', 'item4']
 // console.log(myArray);
 // console.log(deletedItems);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
