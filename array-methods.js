@@ -192,13 +192,13 @@
 // const isEveryNumberEven = numbers1.every(number => number%2 === 0);
 // console.log(isEveryNumberEven);  // false
 
-const products = [
-    {productId : 1, productName : "p1", price : 15000},
-    {productId : 2, productName : "p2", price : 500},
-    {productId : 3, productName : "p3", price : 45000},
-    {productId : 4, productName : "p4", price : 1500},
-    {productId : 5, productName : "p5", price : 50}
-]
+// const products = [
+//     {productId : 1, productName : "p1", price : 15000},
+//     {productId : 2, productName : "p2", price : 500},
+//     {productId : 3, productName : "p3", price : 45000},
+//     {productId : 4, productName : "p4", price : 1500},
+//     {productId : 5, productName : "p5", price : 50}
+// ]
 
 // check whether all products have price less than 50000
 
@@ -228,7 +228,7 @@ const products = [
 // splice method 
 // start, delete, insert
 
-const myArray = ["item1","item2","item3","item4"];
+// const myArray = ["item1","item2","item3","item4"];
 
 // delete 
 // myArray.splice(1,2); // ['item1', 'item4']
